@@ -47,3 +47,22 @@ Original author: Navjot Kaushal
 - 🔼 *What month of year is most busiest*
 - `busiest_year`
 ---
+
+## Visualization of Data Analysis
+### Preview (Screenshot)
+![most popular coffee plot](images/coffeebarplot.png)
+- 🔼 *What kind of coffee makes most sales*
+- `coffee_count`
+
+![best sale time plot](images/peaksalesplot.png)
+- 🔼 *What time of day makes most sales *
+- `sales_by_time`
+
+![busiest day of the week plot](images/busiestdayplot.png)
+- 🔼 *What day of week is the most busiest*
+- `busiest_day`
+
+![busiest month of the year plot](images/busiestyearplot.png)
+- 🔼 *What month of year is most busiest*
+- `busiest_year`
+---
