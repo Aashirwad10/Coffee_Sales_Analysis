@@ -6,7 +6,7 @@ Original author: Navjot Kaushal
 
 ---
 
-## Basic Analysis
+## 1. Basic Analysis
 ### Preview (Screenshot)
 ![Data Head](images/head.png)
 - 🔼 *It gives us a look into our 1st 5 row*
@@ -25,7 +25,7 @@ Original author: Navjot Kaushal
 - `df.isnull().sum()`
 ---
 
-## Common Q/A
+## 2. Common Q/A
 ### Preview (Screenshot)
 ![most popular coffee](images/popularcoffee.png)
 - 🔼 *What kind of coffee makes most sales*
@@ -48,14 +48,14 @@ Original author: Navjot Kaushal
 - `busiest_year`
 ---
 
-## Visualization of Data Analysis
+## 3. Visualization of Data Analysis
 ### Preview (Screenshot)
 ![most popular coffee plot](images/coffeebarplot.png)
 - 🔼 *What kind of coffee makes most sales*
 - `coffee_count`
 
 ![best sale time plot](images/peaksalesplot.png)
-- 🔼 *What time of day makes most sales *
+- 🔼 *What time of day makes most sales*
 - `sales_by_time`
 
 ![busiest day of the week plot](images/busiestdayplot.png)

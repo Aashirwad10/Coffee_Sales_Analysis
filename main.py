@@ -43,9 +43,9 @@ busiest_year = df['Month_name'].value_counts()
 print(busiest_year)
 print("The most busiest month of the year is: ",busiest_year.idxmax())
 
-# =======================================
-# 3. Visualization of Data Analysis     #
-# =======================================
+# ===============================
+# 3. Visualization of Data      #
+# ===============================
 
 # most popular coffee plot
 coffee_count = df['coffee_name'].value_counts()
