@@ -9,14 +9,14 @@ Original author: Navjot Kaushal
 ## Basic Analysis
 ### Preview (Screenshot)
 ![Data Head](images/head.png)
-- *It gives us a look into our 1st 5 row*
+- 🔼 *It gives us a look into our 1st 5 row*
 
 ![Data info](images/info.png)
-- *shows all column, data types, missing values....*
+- 🔼 *shows all column, data types, missing values....*
 
 ![Describe](images/describe.png)
-- *It gives min,max,mean....*
+- 🔼 *It gives min,max,mean....*
 
 ![Checking Missing values](images/isnull.png)
-- *Checks if we have any missing values*
+- 🔼 *Checks if we have any missing values*
 ---
