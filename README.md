@@ -24,3 +24,26 @@ Original author: Navjot Kaushal
 - 🔼 *Checks if we have any missing values*
 - `df.isnull().sum()`
 ---
+
+## Common Q/A
+### Preview (Screenshot)
+![most popular coffee](images/popularcoffee.png)
+- 🔼 *What kind of coffee makes most sales*
+- `coffee_count`
+
+![best sale time](images/mostmoneyday.png)
+- 🔼 *What time of day makes most sales *
+- `sales_by_time`
+
+![prefered payment method](images/preferpayment.png)
+- 🔼 *What kind of payment do customer prefer*
+- `prefer_payment`
+
+![busiest day of the week](images/busiestday.png)
+- 🔼 *What day of week is the most busiest*
+- `busiest_day`
+
+![busiest month of the year](images/busiestyear.png)
+- 🔼 *What month of year is most busiest*
+- `busiest_year`
+---
